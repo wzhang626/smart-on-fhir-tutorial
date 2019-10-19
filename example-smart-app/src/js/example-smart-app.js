@@ -86,7 +86,7 @@
       diastolicbp: {value: ''},
       ldl: {value: ''},
       hdl: {value: ''},
-      Weight: {value: ''},
+      weight: {value: ''},
     };
   }
 
